@@ -15,5 +15,5 @@
 `npm run dev` — запускает сервер с hot-reload
 
 ## Адрес репозитория
-https://github.com/kpolllka/movies-explorer-api
+https://github.com/kpolllka/movies-explorer-api   
 https://github.com/kpolllka/movies-explorer-frontend - frontend часть приложения
