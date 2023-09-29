@@ -16,3 +16,4 @@
 
 ## Адрес репозитория
 https://github.com/kpolllka/movies-explorer-api
+https://github.com/kpolllka/movies-explorer-frontend - frontend часть приложения
